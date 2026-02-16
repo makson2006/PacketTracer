@@ -1,6 +1,6 @@
 ## 📡 Packet Tracer Project: Design Efficient Networked Systems
-## The task is in LO3 Design efficient networked systems tutorial (2).docx
-### 🧩 Result
+## The task is  Design efficient networked systems tutorial (2).docx
+### Result
 
 The final network topology was designed and configured in **Cisco Packet Tracer**.  
 It demonstrates efficient VLAN segmentation, inter-VLAN routing, and secure DMZ integration.
