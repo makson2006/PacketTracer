@@ -1,5 +1,5 @@
 ## 📡 Packet Tracer Project: Design Efficient Networked Systems
-## The task is  Design efficient networked systems tutorial (2).docx
+## The file with a task is: Design efficient networked systems tutorial (2).docx
 ### Result
 
 The final network topology was designed and configured in **Cisco Packet Tracer**.  
